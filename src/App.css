@@ -44,3 +44,18 @@
   color: red;
   background: pink;
  }
+ .App-titel{
+  font-size: 50px;
+  color:tomato;
+  text-align: center;
+}
+.App-uy{
+  font-size: 26px;
+  color:orchid;
+  text-align: center;
+}
+.App-y{
+  font-size: 26px;
+  color: aqua;
+  text-align: center;
+}
